@@ -69,6 +69,58 @@ clf.fit(X_train, y_train)
 predictions = clf.predict(X_test)
 ```
 
+## How to Use This Skill
+
+### Installation Options
+
+**Claude Code:**
+```bash
+git clone https://github.com/amitlals/sap-rpt1-oss-predictor
+cd sap-rpt1-oss-predictor
+# Skill auto-detected via .claude-plugin/marketplace.json
+```
+
+**Claude.ai Projects:**
+1. Go to Claude.ai → Create Project
+2. Upload `SKILL.md` to Project knowledge
+3. Start prompting
+
+**GitHub Copilot:**
+- Skill available in `.github/skills/` directory
+
+### Example Prompts
+
+Once installed, prompt Claude with:
+
+**Setup:**
+```
+Set up SAP-RPT-1-OSS for predictions on my SAP data
+```
+
+**Classification:**
+```
+Predict which customers will churn using SAP-RPT-1-OSS
+```
+
+```
+Classify payment default risk for these SAP invoices
+```
+
+**Forecasting:**
+```
+Forecast demand for next quarter using my SAP sales data
+```
+
+**Data Preparation:**
+```
+Help me extract SAP FI-AR data for payment prediction
+```
+
+**Batch Processing:**
+```
+Run batch predictions on 50,000 SAP records using RPT-1
+```
+
 ## Related Resources
 
 - [SAP-RPT-1-OSS GitHub](https://github.com/SAP-samples/sap-rpt-1-oss)
