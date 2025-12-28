@@ -1,0 +1,9 @@
+{
+  "name": "sap-rpt1-oss-predictor",
+  "version": "1.0.0",
+  "description": "SAP-RPT-1-OSS tabular foundation model for SAP predictive analytics - classification, regression, and forecasting on SAP business data",
+  "author": "amitlals",
+  "keywords": ["sap", "predictive-analytics", "machine-learning", "tabular-data", "huggingface"],
+  "repository": "https://github.com/amitlals/sap-rpt1-oss-predictor",
+  "license": "Apache-2.0"
+}
